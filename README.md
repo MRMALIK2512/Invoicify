@@ -29,6 +29,11 @@ This project was created using the following technologies:
 ### Database
 - **MongoDB (MongoDB Atlas)** – A NoSQL database to store data securely in the cloud.
 
+
+## Screenshots
+
+![Home Page](./screenshots/Screenshot (116).png)
+
 ## Configuration and Setup
 
 To run this project locally, follow the steps below:
