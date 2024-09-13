@@ -31,8 +31,20 @@ This project was created using the following technologies:
 
 
 ## Screenshots
+![Landing Page](./screenshots/landingpage.png)
+![sign up](./screenshots/signup.png)
+![sign in](./screenshots/signin.png)
+![Dashboard](./screenshots/dashboard.png)
+![Create Invoice](./screenshots/createinvoice.png)
+![Create Invoice](./screenshots/createinvoice2.png)
+![Create User](./screenshots/createuser.png)
+![Clients](./screenshots/users.png)
+![Invoices](./screenshots/invoices.png)
+![RecordPayment](./screenshots/recordpayment.png)
+![Invoice actions](./screenshots/actioninvoice.png)
 
-![Home Page](./screenshots/Screenshot (116).png)
+
+
 
 ## Configuration and Setup
 
